@@ -6,7 +6,7 @@
 
 The Production Control Tower converts project progress and employee-capacity data into operational KPIs, delivery-risk alerts, and practical workload-rebalancing recommendations. It also includes a persistent project-management workspace backed by SQLite.
 
-**Built by Braulio · Portfolio Demonstration · Synthetic Data Only**  
+**Built by Enzo · Portfolio Demonstration · Synthetic Data Only**  
 **Project Date: 2026 · Version: 1.0**
 
 ---
@@ -166,4 +166,10 @@ This repository demonstrates how production-management data can be transformed i
 
 ---
 
-Copyright © 2026 Braulio. Released as a portfolio demonstration.
+Copyright © 2026 Enzo. Released as a portfolio demonstration.
+
+## Who it benefits
+
+Production managers, project coordinators and resource planners: delivery-risk visibility and capacity-based workload-rebalancing scenarios.
+
+These are intended users and benefits, not evidence of adoption or measured customer outcomes.
